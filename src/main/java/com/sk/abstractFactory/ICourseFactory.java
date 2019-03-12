@@ -7,7 +7,7 @@ import com.sk.ICourse;
 public interface ICourseFactory {
 
 
-    public ICourse createCourse();
+    public ICourse createCourse();//dddd
 
     public ICourse createNotes();
 
