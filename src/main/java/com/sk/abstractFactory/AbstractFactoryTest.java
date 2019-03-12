@@ -6,7 +6,7 @@ import com.sk.factoryMethod.JavaCourseFactory;
 import com.sk.factoryMethod.PythonCourseFactory;
 
 public class AbstractFactoryTest {
-    public static void main(String[] args) {//asdfsd
+    public static void main(String[] args) {//asdfsddd
 
     }
 }
